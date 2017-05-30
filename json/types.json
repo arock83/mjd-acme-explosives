@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Personal",
+            "description": "These Fireworks are designated for use by the general public."
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Professional",
+            "description": "These Fireworks require special licenses to purchase."
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "Industrial",
+            "description": "These Fireworks are for use in large scale displays and require government code officials to sign off on all orders."
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "Simple",
+            "description": "Simple click and boom explosives for simple roadrunners."
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "Elaborate",
+            "description": "A step up from simple, Elaborate explosive have similar explosive power to our Simple road runner hunting explosives, but we combine other acme products to make the firing trigger more convoluted."
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Show-Ending",
+            "description": "For when that road runner keeps getting away and you just want to burn the whole valley."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "products": [
+        {
+        "sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+            }
+        },
+        {
+        "fountains": {
+            "id": 0,
+            "type": 0,
+            "name": "Fountains",
+            "description": "Shoot multi-color sparks several feet in the air, for a dazzling display of light."
+            }
+        },
+        {
+        "2inMortar": {
+            "id": 0,
+            "type": 0,
+            "name": "2in Mortar",
+            "description": "The largest bang available for everyone; creates aeral displays."
+            }
+        },
+        {
+        "5inMortar": {
+            "id": 0,
+            "type": 1,
+            "name": "5in Mortar",
+            "description": "The standard for aerial displays, comes in random colors."
+            }
+        },
+        {
+        "serialMortar": {
+            "id": 0,
+            "type": 1,
+            "name": "Serial Mortar Cannons",
+            "description": "A series of 12 interconnected mortar shells set to go off 5 seconds apart."
+            }
+        },
+        {
+        "flameShooter": {
+            "id": 0,
+            "type": 1,
+            "name": "Large Flame-Shooter",
+            "description": "Perfect Fire effects for sports games and concerts."
+            }
+        },
+        {
+        "10inMortar": {
+            "id": 0,
+            "type": 2,
+            "name": "10in Mortar",
+            "description": "Our experimental mortar system.  Use far away from large crowds."
+            }
+        },
+        {
+        "giant-fountain": {
+            "id": 0,
+            "type": 2,
+            "name": "Giant Fountain",
+            "description": "Similar effect to the fountains most people are used to, except this one shoots sparks 10 stories high."
+            }
+        },
+        {
+        "city-stopper": {
+            "id": 0,
+            "type": 2,
+            "name": "City Stopper",
+            "description": "The loudest mortar shell we make. Pauses traffic city-wide for 1 minute."
+            }
+        },
+        {
+        "tnt": {
+            "id": 1,
+            "type": 3,
+            "name": "Simple TNT with Handle and Lever",
+            "description": "Dynomite with wires and a box with a push lever.  Standard for any roadrunner hunting."
+            }
+        },
+        {
+        "piano": {
+            "id": 1,
+            "type": 3,
+            "name": "Piano Dropper",
+            "description": "Put bridseed down, and when the roadrunner stops to eat it, pull the string and drop the piano.  No warrenty on rope trigger."
+            }
+        },
+        {
+        "total-kit": {
+            "id": 1,
+            "type": 3,
+            "name": "Complete roadrunner hunter starter kit.",
+            "description": "The complate entry level road runner hunting kit.  Complete with explosive boulders, levers, pullies, pianos, and, of course, bridseed."
+            }
+        },
+        {
+        "eloborate-tnt": {
+            "id": 1,
+            "type": 4,
+            "name": "Elaborate TNT Device",
+            "description": "Same power as our standard TNT but with a random elaborate triggering divice custom made by the finest cyote enginneers."
+            }
+        },
+        {
+        "boulders-loaded": {
+            "id": 1,
+            "type": 4,
+            "name": "Loaded Boulders",
+            "description": "When the roadrunner is too smart for the simple boulder and lever, this combines several sequential boulders to fool your prey."
+            }
+        },
+        {
+        "net": {
+            "id": 1,
+            "type": 4,
+            "name": "Simple Net",
+            "description": "This is just a simple net, but because we mis-categorized it, we charge more for it."
+            }
+        },
+        {
+        "moab": {
+            "id": 1,
+            "type": 5,
+            "name": "MOAB",
+            "description": "The Mother of All Bombs."
+            }
+        },
+        {
+        "tnt-piles": {
+            "id": 1,
+            "type": 5,
+            "name": "Piles of TNT",
+            "description": "As much TNT as possible."
+            }
+        },
+        {
+        "seriously": {
+            "id": 1,
+            "type": 5,
+            "name": "Seriously?",
+            "description": "I mean come on guys.  Why can't we just get the data from y'all.  It doesn't even have to be in json form.  Give us a damn spreadsheet to copy data from or something like that.  For realz!"
+            }
+        }
+    ]
+}
